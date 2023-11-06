@@ -1,7 +1,13 @@
-p{color:aqua;
+p{color:rgb(0, 0, 0);
 font-weight: 1000;}
 body{
 background-image:url(https://cdn.pixabay.com/photo/2014/02/10/15/18/ice-263484_640.jpg);
 background-repeat:no-repeat;
 background-attachment:fixed;
 background-size:100% 100%;}
+
+div
+
+{
+    max-width: 1000px;
+}
